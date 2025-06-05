@@ -1,4 +1,4 @@
-#Nyra –AI-Virtual-Assistant
+Nyra –AI-Virtual-Assistant.
 Nyra is a voice-controlled AI assistant created using Python. It helps users perform daily tasks on their computer using voice commands and keyboard shortcuts. Nyra listens to your commands and responds like a smart digital helper.
 It can open websites, launch apps, search online, give news or weather updates, send emails, and even control YouTube — all just by speaking. The assistant also provides basic system information and can be started or stopped using hotkeys.
 Nyra is built using modules like:
